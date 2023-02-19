@@ -8,3 +8,4 @@ Document_Reader/text-spotting-0005/text-spotting-0005-recognizer-encoder/FP16/te
 Document_Reader/text-spotting-0005/text-spotting-0005-recognizer-decoder/FP16/text-spotting-0005-recognizer-decoder.xml filter=lfs diff=lfs merge=lfs -text
 Document_Reader/text-spotting-0005/text-spotting-0005-detector/FP16/text-spotting-0005-detector.xml filter=lfs diff=lfs merge=lfs -text
 Temple_Run_by_Intel/human-pose-estimation-0007/FP16/human-pose-estimation-0007.xml filter=lfs diff=lfs merge=lfs -text
+Center_Stage/haarcascade_frontalface_default.xml filter=lfs diff=lfs merge=lfs -text
